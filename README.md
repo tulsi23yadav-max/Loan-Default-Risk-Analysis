@@ -46,25 +46,6 @@ The selected fields include loan amount, interest rate, grade, employment length
 - The small business loan-purpose category showed a default rate of 29.95%.
 - The below-25K income group showed a default rate of 22.95%.
 
-## Project Structure
-
-```text
-Loan-Default-Risk-Analysis/
-│
-├── notebooks/
-│   └── Loan_Default_Risk_Analysis.ipynb
-│
-├── data/
-│
-├── reports/
-│   ├── employment_analysis.csv
-│   ├── grade_analysis.csv
-│   ├── income_analysis.csv
-│   ├── interest_analysis.csv
-│   └── purpose_analysis.csv
-│
-└── README.md
-```
 
 ## Conclusion
 The analysis shows differences in default rates across loan grades, interest-rate groups, loan purposes and income groups. These patterns can help support further investigation of borrower risk.
